@@ -1,2 +1,4 @@
 deals_venv/
 /.idea
+mainapp/db.sqlite3
+__pycache__/
